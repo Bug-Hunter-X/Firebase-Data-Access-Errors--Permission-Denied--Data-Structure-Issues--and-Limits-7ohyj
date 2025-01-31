@@ -1,0 +1,2 @@
+# Firebase Data Access Errors
+This repository demonstrates common data access errors in Firebase and provides solutions.  Issues include permission denied errors due to incorrect database rules, unexpected errors from faulty data structure use (e.g., `orderByChild`), and problems arising from exceeding Firebase data limits.  The `firebaseBug.js` file showcases these issues, while `firebaseBugSolution.js` offers corrected code and explanations.
